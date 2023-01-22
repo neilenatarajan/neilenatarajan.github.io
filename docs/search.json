@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Neil Natarajan",
+    "title": "Neil Natarajan’s Personal Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my personal website! I’m Neil and I’m building safe AI systems designed to work with and for humans.\nI’m currently a doctoral researcher at the University of Oxford’s Human Centred Computing theme. Reuben Binns and Sir Nigel Shadbolt are my supervisors. And my research focuses on using AI systems alongside human collaborators to perform tasks better than either humans or AIs can alone.\nI’m also a research consultant for the Rise program, a joint initiative of Schmidt Futures and the Rhodes Trust, building AI tools to assist in the selection of the Rise program winners.\nIn my free time, I read books; run middle-distance; and play badminton, the piano, and video games."
   },
   {
     "objectID": "readme.html",
@@ -18,6 +25,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site: this site was made using quarto."
   }
 ]

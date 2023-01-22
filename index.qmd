@@ -1,5 +1,5 @@
 ---
-title: "Neil Natarajan"
+title: "Neil Natarajan's Personal Website"
 image: neil.jpg
 about:
   template: solana
@@ -7,9 +7,15 @@ about:
   image-width: 10em
 ---
 
-This is a Quarto website.
+Welcome to my personal website! I'm Neil and I'm building safe AI systems designed to work with and for humans. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm currently a doctoral researcher at the [University of Oxford](https://www.ox.ac.uk/)'s [Human Centred Computing](https://hcc.cs.ox.ac.uk/) theme. [Reuben Binns](https://www.reubenbinns.com/) and [Sir Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt) are my supervisors. And my research focuses on using AI systems alongside human collaborators to perform tasks better than either humans or AIs can alone.
+
+I'm also a research consultant for the [Rise](https://www.risefortheworld.org/) program, a joint initiative of [Schmidt Futures](https://www.schmidtfutures.com/) and the [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk/), building AI tools to assist in the selection of the Rise program winners.
+
+In my free time, I read books; run middle-distance; and play badminton, the piano, and video games.
+
+
 
 ```{=html}
 <link rel="stylesheet" href="/_extensions/academicons-1.9.2/css/academicons.min.css"/>
