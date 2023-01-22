@@ -5,6 +5,13 @@ about:
   template: solana
   image-shape: rounded
   image-width: 10em
+  links:
+    - text: LinkedIn
+    - icon: linkedin
+    - href: https://www.linkedin.com/in/neil-natarajan99/
+    - text: Email
+    - icon: envelope-fill
+    - href: mailto:neil.natarajan@new.ox.ac.uk
 
 ---
 
