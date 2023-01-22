@@ -5,22 +5,21 @@ project:
 website:
   title: "Neil Natarajan"
   search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
   # uncomment this when there are other pages to put here
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
   #     - href: research.qmd
   #       text: Research
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
     link-external-newwindow: true
     citations-hover: true
-    mainfont: helvetica
     fontsize: 1em
     page-layout: full
     
