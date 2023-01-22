@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "neilenatarajan.github.io"
+  title: "Neil Natarajan"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: cv.pdf
+        text: Curriculum Vitae
 
 format:
   html:

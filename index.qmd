@@ -5,16 +5,31 @@ about:
   template: solana
   image-shape: rounded
   image-width: 10em
-  links:
-    - text: LinkedIn
-    - icon: linkedin
-    - href: https://www.linkedin.com/in/neil-natarajan99/
-    - text: Email
-    - icon: envelope-fill
-    - href: mailto:neil.natarajan@new.ox.ac.uk
-
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{=html}
+<link rel="stylesheet" href="/_extensions/academicons-1.9.2/css/academicons.min.css"/>
+
+<div style="margin:0 auto;">
+
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/neil-natarajan99/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="mailto:neilenatarajan@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://twitter.com/natarajanneil" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="assets/cv.pdf" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-cv-square" role='img' aria-label='CV'></i>
+</a>
+</div>
+```
