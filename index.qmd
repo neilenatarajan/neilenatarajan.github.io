@@ -1,0 +1,13 @@
+---
+title: "Neil Natarajan"
+image: neil.jpg
+about:
+  template: solana
+  image-shape: rounded
+  image-width: 10em
+
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
