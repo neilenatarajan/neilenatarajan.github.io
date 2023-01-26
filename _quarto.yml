@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: websites.qmd
+        text: Cool Websites
   # uncomment this when there are other pages to put here
   #     - href: research.qmd
   #       text: Research
