@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Neil Natarajan"
   search: false
   navbar:
     left:
@@ -11,6 +10,9 @@ website:
         text: Home
       - href: websites.qmd
         text: Cool Websites
+    right:
+      - href: assets/cv.pdf
+        text: My CV
   # uncomment this when there are other pages to put here
   #     - href: research.qmd
   #       text: Research

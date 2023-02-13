@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-About this site: this site was made using quarto.

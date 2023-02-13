@@ -1,5 +1,5 @@
 ---
-title: "Neil Natarajan's Personal Website"
+title: "Neil Natarajan"
 image: neil.jpg
 about:
   template: solana
