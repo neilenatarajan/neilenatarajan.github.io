@@ -8,14 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
       - href: websites.qmd
         text: Cool Websites
     right:
       - href: assets/cv.pdf
         text: My CV
-  # uncomment this when there are other pages to put here
-  #     - href: research.qmd
-  #       text: Research
 
 format:
   html:

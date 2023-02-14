@@ -1,5 +1,8 @@
 ---
 title: "Research"
+bibliography: assets/ref.bib
+nocite: |
+  @*
 ---
 
-**When I have published research, it will go here**
+My research focuses on using AI systems alongside human collaborators to perform tasks better than either humans or AIs can alone. I specialise in the design and evaluation of explainable AI systems, and I am particularly interested in the use of human-machine collaboration in recruiting and selecting talented groups of people.
