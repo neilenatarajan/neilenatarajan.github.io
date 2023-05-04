@@ -4,6 +4,10 @@ author: "Neil Natarajan"
 date: "2023-05-04"
 categories: [Nonfiction]
 image: "image.jpg"
+about:
+  template: solana
+  image-shape: rounded
+  image-width: 10em
 ---
 
 _image from [celestegame.com](https://www.celestegame.com/)_
