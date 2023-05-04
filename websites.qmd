@@ -1,17 +1,12 @@
 ---
-title: "Cool Websites"
+title: "Some Cool Websites"
 ---
 
-Here are some websites I enjoy.
-
-From people I know:
+Here are some links to websites that make me happy. I hope they make you happy too.x
 
 - [sruvis](http://www.sruvis.com)
 - [hip.cat](https://hip.cat)
 - [Antonio Perricone](https://antonioperricone.com/)
-
-And people I don't:
-
 - [Garden Eight](https://garden-eight.com)
 - [Bolden](https://bolden.nl)
 - [Leave by WeTransfer](https://leave.bywetransfer.com)
@@ -19,3 +14,4 @@ And people I don't:
 - [Digital Design Trends 2022](https://www.editorx.com/shaping-design/digital-design-trends-2022)
 - [Minimal Gallery](https://minimal.gallery/)
 - [Julia Johnson's Photography](https://www.juliajohnson.com/)
+- [Celeste's Website](https://www.celestegame.com/)

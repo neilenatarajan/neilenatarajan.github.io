@@ -10,6 +10,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: blog.qmd
+        text: Writing
       - href: websites.qmd
         text: Cool Websites
     right:
