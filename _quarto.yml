@@ -1,4 +1,5 @@
 project:
+  title: Neil's Site
   type: website
   output-dir: docs
 
