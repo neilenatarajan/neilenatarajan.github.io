@@ -1,5 +1,0 @@
----
-title: "Writing"
----
-
-**Put writing in here**
