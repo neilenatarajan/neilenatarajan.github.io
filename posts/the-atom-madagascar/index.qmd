@@ -1,5 +1,5 @@
 ---
-title: "Mankind will Never Split the Atom, or Madagascar"
+title: "We will Never Split the Atom, or Madagascar"
 author: "Neil Natarajan"
 date: "2023-05-06"
 categories: [Nonfiction]
@@ -25,11 +25,11 @@ Mogadishu, the now-capital of Somalia, is a port city on the Indian Ocean. It ha
 
 # 3.
 
-It should come as no surprise that mankind can split a chair. All we need do is bring a sufficiently large hammer, and we will find the chair in pieces. To split those pieces, we might bring a sharp saw, and to split those pieces, we can use a knife. To split salt, we can dissolve it in water. To split a metal, we can melt it.
+It should come as no surprise that humans can split a chair. All we need do is bring a sufficiently large hammer, and we will find the chair in pieces. To split those pieces, we might bring a sharp saw, and to split those pieces, we can use a knife. To split salt, we can dissolve it in water. To split a metal, we can melt it.
 
 But each time we split something, we find smaller things. Either, this continues forever, and we find infinitely divisible pieces to our world, or there must be some smallest things – these 'atoms' we cannot split. To the Greeks, the former was preposterous and the latter was a matter of course.
 
-Much, much later, mankind found things that we could not split. Sure, we could dissolve salt, but then what about the sodium? We could melt metal, but could not divide the iron. 'We have found the atom!' We rejoiced.
+Much, much later, we found things that we could not split. Sure, we could dissolve salt, but then what about the sodium? We could melt metal, but could not divide the iron. 'We have found the atom!' We rejoiced.
 
 Then, we found the subatomic particles. (We should _never_ have found subatomic particles.) We found the quarks and the tensors and the strange wave-particle duals of quantum physics, and now we write electrons as probability distributions and must ask: 'Was there ever an atom?'. Perhaps the Greeks were right and infinite divisibility is unthinkable, but perhaps they were wrong too. Perhaps there is a third answer.
 
