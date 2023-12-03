@@ -1,0 +1,35 @@
+---
+title: "Pai: A Travelogue"
+author: "Neil Natarajan"
+date: "2023-12-03"
+categories: [Nonfiction]
+image: "image.jpg"
+about:
+  template: solana
+  image-shape: rounded
+  image-width: 10em
+---
+
+_image from [Polina Kocheva on Unsplash](https://unsplash.com/es/fotos/un-grupo-de-personas-caminando-por-una-calle-al-lado-de-edificios-oxJEc_m7VwU/)_
+
+A friend of a friend said of Pai: "If you haven't been to Pai, you haven't been to Thailand", and I can hardly think of a description less apt. 
+
+The small mountain town in North Thailand is inaccessible by any account. An extensive series of flights to Chiangmai and a nauseating three hour drive saw us to our boutique Pai hostel, where we began our trip to Thailand with a nap. Shortly thereafter, though, at a healthy 3pm, we found our way into the town.
+
+Pai's town square boasts four – maybe five – streets in total. As I made my way to a local cafe for something to drink, I saw them largely empty. There was a spattering of motorcycles ("motos") and even a few cars, but there were few people out and about. When I left to go about my evening, the entire area had turned into a pedestrian-only (with the exception of the occasional moto) night market.
+
+Stalls of local foods and wares lined every street. Everything from fresh coconuts to pad Thai was on offer. locals and tourists alike haggled all across the town. But as the night dragged on, I couldn't help but feel more and more uncomfortable. While locals would occasionally speak Thai to each other, English touched my ears more often. That is not to say I didn't enjoy the night market. I had the best Thai food I've ever had at อร่อยติดล้อ ปาย (whose less poetic English name is: Food Truck Thai Food at Pai Street Walking Street), and for that alone I must recommend you go.
+
+Still, while there was a diversity of a sort to the crowd on the street, I began to see a fissure between the predominantly wealthy white tourists and the lower-middle income people of Pai. The predominantly wealthy white tourists of Pai never engaged the locals beyond the requisite monetary transactions ("How much is this?" and "Thank you for the food."), they all seemed to know each other, and, perhaps most telling, I never saw a single local buy anything. Pai it seems, has a tourist class. And, knowing  what I know now, when the tourist class says: "If you haven't been to Pai, you haven't been to Thailand" I can't bring myself to believe them.
+
+---
+
+My discomfort did not fade after that first night. Still, the next day, I found myself enjoying Pai more than I had expected to. We spent most of the day outside the town. We first visited the Yun Lai viewpoint, where the hillscape greeted us in all its majesty. We continued on to the Mor Paeng waterfall, where I climbed up then slid down a rock wall and natural waterslide, respectively; visited to Boon Ko Ku So, a long bamboo bridge stretching across many rice fields; and finally took a quick hike through Pai Canyon, though the gravel floor of the canyon made a scramble of our walk. We finished our day at Two Huts Cafe, where we sampled all three of the popular Thai beer brands as we watched the sun set in front of us.
+
+I found the entire whirlwind enjoyable, but perhaps my favourite stop was Mor Paeng waterfall. After a short walk from the road and a quick climb up the rock face (there are stairs for the less daring), we found ourselves amidst a series of small waterfalls separated by natural pools and running water. The tourist class was out in spades, and the only Thai I heard came from a group of little kids that occupied themselves by running off of a high rock and falling into the water. Too big to make that jump, I spent my time on the natural waterslide running parallel to the main waterfall. Between the natural calm of the running water and the adrenaline of a controlled slide down the waterfall, I found myself remiss to leave.
+
+At a close second (and bearing mention), Two Huts is best known for views of the beautiful Pai sunset over the mountains of Northern Thailand. I and (it seemed) every tourist in Pai trickled in in the hour or two leading up to the event, securing drinks and food despite the ever-growing queues of consumption. (Again, I found myself an unwitting member of a foreign, mostly white, mostly English-speaking tourist class, while every Thai person in sight worked to serve us.) Still, I must recommend anyone in the area make an attempt to see this – it's beautiful.
+
+---
+
+Were I to return to Pai, I would spend every night at the night market. I would frequent Mor Paeng, learn to drive a moto, visit the many hikes in the area I was forced to skip, and spend as many evenings as I could manage in front of the sunset. I don't know if I will return to Pai, nor am I sure I want to. But if I do, I may stay for much longer.

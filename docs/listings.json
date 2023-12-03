@@ -2,6 +2,9 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/pai-a-travelogue/index.html",
+      "/posts/ramblings-on-spiderman/index.html",
+      "/posts/2023-07-28/index.html",
       "/posts/the-atom-madagascar/index.html",
       "/posts/celeste-interactive-storytelling/index.html"
     ]
