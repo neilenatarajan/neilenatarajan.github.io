@@ -1,7 +1,7 @@
 ---
 title: "Some Collected Ramblings About Spider-man: Across the Spiderverse"
 author: "Neil Natarajan"
-date: "2023-12-02"
+date: "2023-12-03"
 categories: [Nonfiction]
 image: "image.jpg"
 about:

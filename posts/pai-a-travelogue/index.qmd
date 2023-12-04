@@ -1,7 +1,7 @@
 ---
 title: "Pai: A Travelogue"
 author: "Neil Natarajan"
-date: "2023-12-03"
+date: "2023-12-04"
 categories: [Nonfiction]
 image: "image.jpg"
 about:
