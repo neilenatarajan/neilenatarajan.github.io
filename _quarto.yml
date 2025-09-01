@@ -15,7 +15,7 @@ website:
       - href: websites.qmd
         text: Cool Websites
     right:
-      - href: assets/cv.pdf
+      - href: assets/resume.pdf
         text: My CV
 
 format:

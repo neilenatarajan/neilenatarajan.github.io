@@ -5,4 +5,4 @@ nocite: |
   @*
 ---
 
-My research focuses on using AI systems alongside human collaborators to perform tasks better than either humans or AIs can alone. I specialise in the design and evaluation of explainable AI systems, and I am particularly interested in the use of human-machine collaboration in recruiting and selecting talented groups of people.
+My research focuses on applying techniques Human-Centered Artificial Intelligence and Explainable AI (XAI) to leverage AI systems in a variety of domains, including talent and mental health.
