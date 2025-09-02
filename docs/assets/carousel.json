@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "Carl",
+      "text": "In January 2025, I helped build Carl. Carl was the first AI system to produce academically peer-reviewed research.",
+      "image": "assets/images/carl.png",
+      "alt": "Carl",
+      "link": "https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research",
+      "interval": 5000
+    },
+    {
+      "title": "Study of Diversity",
+      "text": "Much of my research focuses on diversity. In 2024, I published a paper on the topic.",
+      "image": "assets/images/diversity.png",
+      "alt": "Diversity Paper",
+      "link": "https://arxiv.org/abs/2410.06049",
+      "interval": 5000
+    },
+    {
+      "title": "The Climate Ad Archive",
+      "text": "The Climate Ad Archive is an Oxford HCAI project building an archive of ads relating to the climate crisis to assist lawyers and journalists.",
+      "image": "assets/images/climate.jpeg",
+      "alt": "The Climate Ad Archive",
+      "link": "https://adarchive.geekodour.org/?f_climate_score=Wzk5XQ%3D%3D",
+      "interval": 5000
+    }
+  ]
+}

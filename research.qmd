@@ -1,8 +1,25 @@
 ---
 title: "Research"
-bibliography: assets/ref.bib
+# bibliography: assets/ref.bib
 nocite: |
   @*
 ---
 
 My research focuses on applying techniques Human-Centered Artificial Intelligence and Explainable AI (XAI) to leverage AI systems in a variety of domains, including talent and mental health.
+
+## Publications
+
+### Published
+
+- Natarajan, N. (2024). Detecting Generative AI Usage in Application Essays. In Generative AI and HCI Workshop at CHI 2024. [PDF](https://generativeaiandhci.github.io/papers/2024/genaichi2024_9.pdf).
+- Natarajan, N. (2023). Human-AI Collaboration in Recruitment and Selection. In Doctoral Consortium at IJCAI 2023. [DOI](https://doi.org/10.24963/ijcai.2023/819).
+- Natarajan, N., Zhao, J., Binns, R., & Shadbolt, N. (2022). Trust Explanations to Do What They Say. In Workshop on Human-Centered AI at NeurIPS 2022. [arXiv](https://arxiv.org/abs/2303.13526v1).
+- Nigg, J. T., Elmore, A. L., Natarajan, N., Friderici, K. H., & Nikolas, M. A. (2016). Variation in an Iron Metabolism Gene Moderates the Association Between Blood Lead Levels and ADHD in Children. Psychological Science, 27(2), 257–269. [DOI](https://doi.org/10.1177/0956797615618365).
+
+### In Progress / Under Review (Preprints on request)
+
+- Natarajan, N., Viswanathan, S., Roberts-Gaal, X., & Martel, M. (2025). Position: AI Will Transform Neuropsychology Through Continuous Diagnostic Companions for Dynamic Mental Health Care.
+- Noray, K., & Natarajan, N. (2024). Selecting for Diverse Talent: Theory and Evidence.
+- Natarajan, N., Viswanathan, S., Binns, R., & Shadbolt, N. (2024). ‘Diversity is Having the Diversity’: Unpacking and Designing for Diversity in Applicant Selection.
+- Natarajan, N., Binns, R., Lyngs, U., & Shadbolt, N. (2024). XAI: Misleading In Process, but Useful Post Hoc.
+- Natarajan, N., Hanno, E., Gittelson, L., Binns, R., & Shadbolt, N. (2024). What Are Generative AI Detectors Good For? Evaluating and Implementing with the Decision Matrix.

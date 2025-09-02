@@ -9,12 +9,111 @@ about:
 
 Welcome to my personal website! I'm Neil and I'm building safe AI systems designed to work with and for humans. 
 
-I'm currently a doctoral researcher at the [University of Oxford](https://www.ox.ac.uk/)'s [Human Centred Computing](https://hcc.cs.ox.ac.uk/) theme. [Reuben Binns](https://www.reubenbinns.com/) and [Sir Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt) are my supervisors. And my research focuses on using AI systems alongside human collaborators to perform tasks better than either humans or AIs can alone.
+I recently completed my DPhil (PhD) in Computer Science at the [University of Oxford](https://www.ox.ac.uk/)'s [Human Centred Computing](https://hcc.cs.ox.ac.uk/) theme, advised by [Reuben Binns](https://www.reubenbinns.com/) and [Sir Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt). My research focuses on Human-Centered Artificial Intelligence, Explainable AI (XAI), algorithmic fairness, and designing AI decision-support systems for recruitment and mental health.
 
-I'm also a research consultant for the [Rise](https://www.risefortheworld.org/) program, a joint initiative of [Schmidt Futures](https://www.schmidtfutures.com/) and the [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk/), building AI tools to assist in the selection of the Rise program winners.
+I'm currently an Advisor at the Autoscience Institute, and previously served as an AI Research Scientist there. Before that, I was an AI Research Consultant at the [Ellison Institute of Technology](https://eit.org/) and with [Schmidt Futures](https://www.schmidtfutures.com/)' [Rise](https://www.risefortheworld.org/) program.
 
-In my free time, I read books; run middle-distance; and play badminton, the piano, and video games.
+In my free time, I read books; climb rocks; and play badminton and pickleball.
 
+## Highlights
+
+```{=html}
+<div id="carouselContainer" class="my-4"></div>
+<style>
+  /* Thumbnails with hover overlay */
+  #carouselContainer .thumb { position: relative; overflow: hidden; border-radius: .75rem; }
+  #carouselContainer .thumb img { display: block; width: 100%; height: 180px; object-fit: cover; border-radius: .75rem; }
+  #carouselContainer .thumb .thumb-overlay { position: absolute; inset: 0; display: flex; align-items: end; padding: .75rem; color: #fff; background: rgba(0,0,0,0); opacity: 0; transition: opacity .2s ease, background .2s ease; }
+  #carouselContainer .thumb:hover .thumb-overlay { opacity: 1; background: rgba(0,0,0,.45); }
+  #carouselContainer .thumb-title { margin: .5rem 0 0; font-size: 1rem; font-weight: 600; }
+  #carouselContainer .overlay-text { margin: 0; font-size: .875rem; }
+  #carouselContainer .thumb-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; align-items: stretch; }
+</style>
+<script>
+fetch('assets/carousel.json')
+  .then(response => response.json())
+  .then(data => {
+    const items = Array.isArray(data.items) ? data.items : [];
+    if (items.length === 0) return;
+
+    const carouselId = 'highlightsCarousel';
+
+    const groups = [];
+    for (let i = 0; i < items.length; i += 3) {
+      groups.push(items.slice(i, i + 3));
+    }
+
+    const indicatorsHtml = groups.map((_, index) => {
+      const activeAttrs = index === 0 ? 'class="active" aria-current="true"' : '';
+      return `<button type="button" data-bs-target="#${carouselId}" data-bs-slide-to="${index}" ${activeAttrs} aria-label="Slide ${index + 1}"></button>`;
+    }).join('');
+
+    const slidesHtml = groups.map((group, groupIndex) => {
+      const isActive = groupIndex === 0 ? ' active' : '';
+
+      const cardsHtml = group.map((item) => {
+        const imageSrc = item.image || '';
+        const imageAlt = item.alt || '';
+        const titleHtml = item.title ? `<p class="thumb-title">${item.title}</p>` : '';
+        const textHtml = item.text ? `<p class="overlay-text">${item.text}</p>` : '';
+
+        const thumbInner = `
+          <div class="thumb">
+            <img src="${imageSrc}" alt="${imageAlt}">
+            <div class="thumb-overlay">
+              ${textHtml}
+            </div>
+            ${item.link ? `<a href="${item.link}" class="stretched-link" aria-label="${item.title || 'Open'}"></a>` : ''}
+          </div>`;
+
+        return `
+          <div>
+            ${thumbInner}
+            ${titleHtml}
+          </div>`;
+      }).join('');
+
+      return `
+        <div class="carousel-item${isActive}">
+          <div class="thumb-row">
+            ${cardsHtml}
+          </div>
+        </div>`;
+    }).join('');
+
+    const baseInterval = items[0] && items[0].interval ? items[0].interval : 5000;
+
+    const carouselHtml = `
+      <div id="${carouselId}" class="carousel slide" data-bs-ride="carousel" data-bs-interval="${baseInterval}">
+        <div class="carousel-inner">
+          ${slidesHtml}
+        </div>
+        <div class="mt-2 d-flex justify-content-between align-items-center">
+          <div class="carousel-indicators m-0">
+            ${indicatorsHtml}
+          </div>
+          <div class="d-flex gap-2">
+            <button class="carousel-control-prev position-static" type="button" data-bs-target="#${carouselId}" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next position-static" type="button" data-bs-target="#${carouselId}" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </div>
+      </div>`;
+
+    const container = document.getElementById('carouselContainer');
+    if (container) {
+      container.innerHTML = carouselHtml;
+    }
+  })
+  .catch(() => {/* ignore errors rendering carousel */});
+</script>
+
+```
 
 
 ```{=html}
@@ -26,16 +125,13 @@ In my free time, I read books; run middle-distance; and play badminton, the pian
     <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
 </a>
 
-<a class="btn btn-outline-dark", href="mailto:neilenatarajan@gmail.com" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:me@neilenataraja.com" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='email'></i>
-</a>
-
-<a class="btn btn-outline-dark", href="https://twitter.com/natarajanneil" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
 </a>
 
 <a class="btn btn-outline-dark", href="assets/resume.pdf" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-cv-square" role='img' aria-label='CV'></i>
 </a>
 </div>
+
 ```
